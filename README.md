@@ -6,6 +6,6 @@ Study is fun! 👀
 
 ```java
 @Autowired
-private girlFriend girlFriend;
+private GirlFriend girlFriend;
 ```
 
