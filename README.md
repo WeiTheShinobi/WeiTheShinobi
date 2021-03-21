@@ -5,7 +5,7 @@
 Study is fun! 👀
 
 ```java
-@AutoWired
+@Autowired
 private Girl girlFriend;
 ```
 
