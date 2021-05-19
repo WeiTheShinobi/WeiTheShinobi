@@ -2,7 +2,7 @@
 
 > Wei the Shinobi is playing 《*Code of Duty*》.
 
-Study is fun! 👀
+我們的征途是星辰大海⭐
 
 ```java
 @Autowired
