@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-> Wei the Shinobi is playing 《*Code of Duty*》.
+> WeiTheShinobi is playing 《*Code of Duty*》.
 
 持續精進⭐
