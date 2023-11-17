@@ -2,8 +2,8 @@
 
 > WeiTheShinobi is playing 《*Code of Duty*》.
 
-Programming is cool⭐
+Programming is cool ⭐
 
-Keep learning🦆🥰
+Keep learning 🦆🥰
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/weitheshinobi?theme=dark&font=source_code_pro&extension=null)
