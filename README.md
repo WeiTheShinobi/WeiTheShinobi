@@ -6,4 +6,4 @@ Programming is cool ⭐
 
 Keep learning 🦆🥰
 
-![LeetCode Stats](https://leetcode.card.workers.dev/weitheshinobi?theme=dark&font=source_code_pro&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/weitheshinobi?theme=dark&font=Exo%202&ext=contest)
