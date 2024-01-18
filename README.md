@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-> WeiTheShinobi is playing 《*Code of Duty*》.
+I love programming, compiler, duck 😍😍😍
 
 Programming is cool ⭐
+
+Duck is friend 🦆
 
 Keep learning 🦆🥰
 
