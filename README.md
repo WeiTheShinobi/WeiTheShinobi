@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love programming, compiler, duck 😍😍😍
+I love programming, trail running, duck 😍😍😍
 
 I enjoy contributing to open source projects. ⭐
 
