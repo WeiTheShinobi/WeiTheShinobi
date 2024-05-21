@@ -2,10 +2,10 @@
 
 I love programming, compiler, duck 😍😍😍
 
-Programming is cool ⭐
+I enjoy contributing to open source projects. ⭐
 
 Duck is friend 🦆
 
-Keep learning 🦆🥰
+Never stop learning 🥰
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/weitheshinobi?theme=dark&font=Exo%202&ext=contest)
