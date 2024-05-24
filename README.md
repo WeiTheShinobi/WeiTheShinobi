@@ -2,8 +2,6 @@
 
 I love programming, trail running, duck 😍😍😍
 
-I enjoy contributing to open source projects. ⭐
-
 Duck is friend 🦆
 
 Never stop learning 🥰
