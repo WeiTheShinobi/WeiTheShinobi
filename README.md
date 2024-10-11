@@ -1,11 +1,19 @@
-### Hi there 👋
+![monk](monk.jpeg)
 
-I love programming, trail running, duck 😍😍😍
+    
+---
 
-Duck is friend 🦆
+<div align="center">
 
-Never stop exploring 🥰
+<h4>「 issue 不空，誓不成佛。」</h4>
+<p>
 
-我們的征途是星辰大海
+Learning, Training  
+Seeking the knowledge of computer science    
+A duck lover 🦆😍😍😍   
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/weitheshinobi?theme=dark&font=Exo%202&ext=contest)
+</p>
+
+</div>
+
+---
