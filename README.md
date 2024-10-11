@@ -11,7 +11,7 @@
 
 Learning, Training  
 Seeking the knowledge of computer science    
-Duck lover 🦆😍😍😍   
+🦆🦆🦆 Duck lover 😍😍😍   
 
 </p>
 
