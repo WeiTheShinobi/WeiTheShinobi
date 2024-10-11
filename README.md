@@ -1,5 +1,6 @@
-![monk](monk.jpeg)
-
+<div align="center">
+    <img src="monk.jpeg" width="512" height="512">
+</div>
     
 ---
 
