@@ -10,7 +10,7 @@
 <p>
 
 Learning, Training  
-Seeking the knowledge of computer science    
+Seeking knowledge of computer science    
 🦆🦆🦆 Duck lover 😍😍😍   
 
 </p>
