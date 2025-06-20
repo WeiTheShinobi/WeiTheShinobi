@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h4>「 issue 不空，誓不成佛。」</h4>
+<h4>「 issues 不空，誓不成佛。」</h4>
 <p>
 
 Learning, Training  
