@@ -1,16 +1,13 @@
 <div align="center">
-    <img src="tomori1.jpg" width="552" height="738">
+    <img src="tomori1.jpg" width="277" height="369">
 </div>
     
 ---
 
 <div align="center">
 
-<h4>「 issues 不空，誓不成佛。」</h4>
 <p>
-
-Learning, Training  
-Seeking knowledge of computer science    
+ 
 🦆🦆🦆 Duck lover 😍😍😍   
 
 </p>
@@ -18,4 +15,5 @@ Seeking knowledge of computer science
 </div>
 
 ---
+
 
